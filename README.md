@@ -1,1 +1,1 @@
-# udemy-react-redux-online-course
+# udemy-react-redux-crud-application
